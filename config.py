@@ -14,11 +14,8 @@ LOGGING_LEVEL = 20
 HTML_DIR = 'html_output'
 IMG_WIDTH = 150
 
-# Axz's
-session_id = "de9c3481442a11e4befefa163e4a2f07"
-session_id = "2cec96254cb111e4b2cbfa163e4a2f07"
-session_id = "4aa4d684534d11e4b952fa163e4a2f07"
-did = "749b175c43c46c05bb260ace97b3903c72b68334"
+session_id = ""
+did = ""
 
 # Constant
 POST = 1
